@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <solid android:color="#efefef" />
+
+</shape><!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/drawable/cart_preview_et_bg.xml -->
