@@ -23,6 +23,7 @@ dependencies {
     compile project(':floatingActionButton')
     compile 'com.android.support:support-v4:22.2.1'
     compile 'com.android.support:appcompat-v7:21.0.3'
+    compile 'com.google.android.gms:play-services-plus:8.1.0'
     compile files('libs/Parse-1.5.0.jar')
     compile files('libs/simple-xml-2.7.1.jar')
     compile files('libs/universal-image-loader-1.8.6.jar')

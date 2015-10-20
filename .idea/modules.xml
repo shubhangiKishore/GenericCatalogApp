@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/catalogViewPagerIndicator/catalogViewPagerIndicator.iml" filepath="$PROJECT_DIR$/catalogViewPagerIndicator/catalogViewPagerIndicator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dmbteam_mobile_shop_v1.11.iml" filepath="$PROJECT_DIR$/dmbteam_mobile_shop_v1.11.iml" />
       <module fileurl="file://$PROJECT_DIR$/dmbteam_mobile_shop_v11/dmbteam_mobile_shop_v11.iml" filepath="$PROJECT_DIR$/dmbteam_mobile_shop_v11/dmbteam_mobile_shop_v11.iml" />
       <module fileurl="file://$PROJECT_DIR$/floatingActionButton/floatingActionButton.iml" filepath="$PROJECT_DIR$/floatingActionButton/floatingActionButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merabite.iml" filepath="$PROJECT_DIR$/merabite.iml" />
     </modules>
   </component>
 </project>

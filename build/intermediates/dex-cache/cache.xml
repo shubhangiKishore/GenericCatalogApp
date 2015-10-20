@@ -2,81 +2,102 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\dmbteam_mobile_shop_v1.11\floatingActionButton\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-207ca0d6419f3a0c779f371ad6227d4d556cb84e.jar" />
-    </item>
-    <item
-        jar="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-50bd0d982b2207e813ab15e2414c8607bd8f4284.jar" />
-    </item>
-    <item
-        jar="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\dmbteam_mobile_shop_v1.11\catalogViewPagerIndicator\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8f34085283e562aff5da959fe48278b1a4bdeb57">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-ceea8c98ecba7f4b4d7ba367b44b6200202a22ca.jar" />
-    </item>
-    <item
-        jar="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-2f120b94af8a55f39edbfaea52613826871dd9e0.jar" />
-    </item>
-    <item
-        jar="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\libs\simple-xml-2.7.1.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="083623424bcfa03bd598e709765bad0816c2375d">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\simple-xml-2.7.1-379fc0745c9bca659accc4946153860e1305f092.jar" />
-    </item>
-    <item
-        jar="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-d1715fdd9a23a0cd8cf1d790f138e1cb388f48d7.jar" />
-    </item>
-    <item
-        jar="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\libs\universal-image-loader-1.8.6.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="09995ba681982ca129af798c9eb21e79c4bffa45">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-c321358124fc8f360a006c01a453b74f66e516ad.jar" />
-    </item>
-    <item
-        jar="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\libs\Parse-1.5.0.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="8a675f7e3312d8b28188ec653bbea6d435aaa7d1">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\Parse-1.5.0-7174188af6f1c8151d68bdba0fbdafa06483f0d7.jar" />
-    </item>
-    <item
-        jar="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\dmbteam_mobile_shop_v1.11\floatingActionButton\unspecified\jars\libs\android-support-v7-recyclerview.jar"
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\merabite\floatingActionButton\unspecified\jars\libs\android-support-v7-recyclerview.jar"
         jumboMode="false"
         revision="23.0.0"
         sha1="95c892d244f49414bbdf92c2235a32ea06bc68aa">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview-f385f992633ae7e7c15ec8a83576125ae2b0ebc7.jar" />
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\android-support-v7-recyclerview-998d036706050115fa365b7080dab0498ea03ab8.jar" />
     </item>
     <item
-        jar="C:\Users\sk448\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\libs\simple-xml-2.7.1.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-b964c7304b18f624a6f264d2790952bfc18e4e0b.jar" />
+        sha1="083623424bcfa03bd598e709765bad0816c2375d">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\simple-xml-2.7.1-8220de8384f664530275b1d64abc09a4770166fc.jar" />
     </item>
     <item
-        jar="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\dmbteam_mobile_shop_v1.11\floatingActionButton\unspecified\jars\classes.jar"
+        jar="C:\Users\Shubhi\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="23.0.0"
-        sha1="98c9dfeed71ec546a515c686a75c7ac17d63b45c">
-        <dex dex="C:\Users\sk448\AndroidStudioProjects\dmbteam_mobile_shop_v1.11\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-a7cea5d784d090fc23878a11e18064c01340979a.jar" />
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-fcbcc3da954a0fbe00758ee3cf24d1313926c032.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-507208aa6da3fcf5957732e6fc07a6dd77166698.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\libs\Parse-1.5.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8a675f7e3312d8b28188ec653bbea6d435aaa7d1">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\Parse-1.5.0-879cb55e6c59784401f2b71474be4a2746e3f5a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-fe27452d193f41df0f47adbd50bea2e4b6858532.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-cacb22ffd2417cc82ce03a5c6194ca0d41242003.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\merabite\floatingActionButton\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="522e1cf8ef0b51c610b0652a3288bff8d6584c2d">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-7276764600595271490830d1fb7de8a2df13667d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\libs\universal-image-loader-1.8.6.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="09995ba681982ca129af798c9eb21e79c4bffa45">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6-dd22ae5e264e62da63779497c4358b383a60a8c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-d08ee5b0a2190ae149bfe166bd7a7db2a61f5511.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-9937607d58389ccff66a542fdcc94e4904ac37cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\merabite\catalogViewPagerIndicator\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b05ce74899a228c6cbde7fd57c0e23a4ec84a45e">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-bb35ab9562b2b0d65a078020393a745c00a7e429.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\merabite\floatingActionButton\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-a8b5ae82e70d44047cdd9d2d1ec8760000e000d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Shubhi\AndroidStudioProjects\merabite\dmbteam_mobile_shop_v11\build\intermediates\pre-dexed\debug\classes-8fc8d7c3d9c59162411a7f547419bc4c072cf918.jar" />
     </item>
 
 </items>

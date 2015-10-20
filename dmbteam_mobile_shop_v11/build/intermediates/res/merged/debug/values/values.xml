@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <attr format="boolean" name="centered"/>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <attr format="color" name="selectedColor"/>
     <attr format="dimension" name="strokeWidth"/>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <attr format="string" name="title"/>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <attr format="color" name="unselectedColor"/>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <bool name="abc_action_bar_embed_tabs">true</bool>
     <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
@@ -26,14 +26,14 @@
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <bool name="default_circle_indicator_centered">true</bool>
     <bool name="default_circle_indicator_snap">false</bool>
     <bool name="default_line_indicator_centered">true</bool>
     <bool name="default_title_indicator_selected_bold">true</bool>
     <bool name="default_underline_indicator_fades">true</bool>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -45,10 +45,10 @@
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
     <color name="background_material_light">#ffeeeeee</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="black_75_transparency">#C0000000</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -58,7 +58,19 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
     <color name="default_circle_indicator_page_color">#00000000</color>
@@ -69,7 +81,7 @@
     <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
     <color name="default_title_indicator_text_color">#BBFFFFFF</color>
     <color name="default_underline_indicator_selected_color">#FF33B5E5</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -81,24 +93,24 @@
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
     <color name="link_text_material_dark">@color/material_deep_teal_200</color>
     <color name="link_text_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="main_bg">#eeeeee</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/floatingActionButton/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/floatingActionButton/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_500">#5677fc</color>
     <color name="material_blue_600">#4e6cef</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff009688</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="orange">#ff8800</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>
@@ -114,18 +126,18 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="selected_product_dark_text">#363636</color>
     <color name="selected_product_less_dark_text">#b0b0b0</color>
     <color name="selected_product_separator_bg">#eeeeee</color>
     <color name="sliding_delimiter">#d1d1d1</color>
     <color name="sliding_sub_cat_bg">#f5f5f5</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="text_color_gray">#bbbbbb</color>
     <color name="theme_blue_main_color">#3498db</color>
@@ -142,7 +154,7 @@
     <color name="theme_pink_main_color_darker">#b8486f</color>
     <color name="theme_purple_main_color">#9b59b6</color>
     <color name="theme_purple_main_color_darker">#8e44ad</color>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="vpi__background_holo_dark">#ff000000</color>
     <color name="vpi__background_holo_light">#fff3f3f3</color>
@@ -166,6 +178,7 @@
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_weight"/><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ListPopupWindow"><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/></declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust"><enum name="none" value="0"/><enum name="adjust_width" value="1"/><enum name="adjust_height" value="2"/></attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
     <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
     <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
     <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/></declare-styleable>
@@ -184,7 +197,7 @@
     <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
     <declare-styleable name="header"><attr format="reference" name="first_active_color"/><attr format="reference" name="first_active_color_darker"/><attr format="reference" name="ab_search_et"/></declare-styleable>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
     <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
@@ -223,7 +236,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="default_circle_indicator_radius">3dp</dimen>
     <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
@@ -238,7 +255,7 @@
     <dimen name="default_title_indicator_text_size">15dp</dimen>
     <dimen name="default_title_indicator_title_padding">5dp</dimen>
     <dimen name="default_title_indicator_top_padding">7dp</dimen>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -246,14 +263,14 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/floatingActionButton/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/floatingActionButton/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="fab_elevation_lollipop">8dp</dimen>
     <dimen name="fab_scroll_threshold">4dp</dimen>
     <dimen name="fab_shadow_size">12dp</dimen>
     <dimen name="fab_size_mini">40dp</dimen>
     <dimen name="fab_size_normal">56dp</dimen>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <item name="action_bar_activity_content" type="id"/>
     <item name="action_bar_spinner" type="id"/>
@@ -265,14 +282,17 @@
     <item name="split_action_bar" type="id"/>
     <item name="up" type="id"/>
     <integer name="abc_max_action_buttons">2</integer>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <integer name="default_circle_indicator_orientation">0</integer>
     <integer name="default_title_indicator_footer_indicator_style">2</integer>
     <integer name="default_title_indicator_line_position">0</integer>
     <integer name="default_underline_indicator_fade_delay">300</integer>
     <integer name="default_underline_indicator_fade_length">400</integer>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">8115000</integer>
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -290,19 +310,61 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
     <string name="app_name">Mobile Shop</string>
     <string name="atleast_five_items">You need to have at least five items.</string>
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/auth_strings.xml -->
+    <eat-comment/>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/values/strings.xml -->
+    <eat-comment/>
     <string name="checkout">Checkout</string>
     <string name="choose_category">Choose Category</string>
     <string name="clear">Clear</string>
     <string name="comment">Comment</string>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/floatingActionButton/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
+    <string msgid="6006316683626838685" name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/res/values/base_strings.xml -->
+    <eat-comment/>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/floatingActionButton/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="define_FloatingActionButton"/>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="discount"><strike>600 $</strike></string>
     <string name="discount_1"><strike>900 $</strike></string>
@@ -317,7 +379,8 @@
     <string name="fra_cart_total">TOTAL:</string>
     <string name="fra_cart_vat">VAT(%s%%):</string>
     <string name="full_name">Full Name</string>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/floatingActionButton/unspecified/res/values/values.xml -->
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/floatingActionButton/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="library_FloatingActionButton_author">Oleksandr Melnykov</string>
     <string name="library_FloatingActionButton_authorWebsite">https://github.com/makovkastar/FloatingActionButton</string>
@@ -328,7 +391,7 @@
     <string name="library_FloatingActionButton_libraryWebsite">https://github.com/makovkastar/FloatingActionButton</string>
     <string name="library_FloatingActionButton_licenseId">mit</string>
     <string name="library_FloatingActionButton_repositoryLink">https://github.com/makovkastar/FloatingActionButton</string>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="list_item_cart_qty">QTY</string>
     <string name="mandatory_fields">Please fill all mandatory fields</string>
@@ -342,9 +405,10 @@
     <string formatted="false" name="selected_page_number">%s of %s</string>
     <string name="sent">Send Order</string>
     <string name="shopping_cart">Shopping Cart</string>
+    <string name="title_activity_login">Login</string>
     <string name="total">TOTAL:</string>
     <string name="transition_cover">My Transition</string>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
         <item name="android:textColor">?android:textColorPrimary</item>
@@ -1305,13 +1369,13 @@
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large"/>
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small"/>
     <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.TabPageIndicator" parent="Widget">
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">@color/vpi__dark_theme</item>
     </style>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item"/>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle"/>
@@ -1332,24 +1396,24 @@
         <item name="windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
     </style>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.PageIndicatorDefaults" parent="android:Theme">
         <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
         <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
     </style>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget">
     </style>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar"/>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid"/>
@@ -1404,7 +1468,7 @@
     <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Base.Widget.AppCompat.Spinner.DropDown.ActionBar"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/dmbteam_mobile_shop_v1.11/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/build/intermediates/exploded-aar/merabite/catalogViewPagerIndicator/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.IconPageIndicator" parent="Widget">
         <item name="android:layout_marginLeft">6dp</item>

@@ -3,4 +3,4 @@
     <item android:drawable="@drawable/btn_cart_plus_pressed" android:state_pressed="true"/>
     <item android:drawable="@drawable/btn_cart_plus" android:state_pressed="false"/>
 </selector>
-<!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/drawable/list_item_recipe_plus_selector.xml -->
+<!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/drawable/list_item_recipe_plus_selector.xml -->

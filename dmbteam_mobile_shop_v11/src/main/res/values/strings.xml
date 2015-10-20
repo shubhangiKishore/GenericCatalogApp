@@ -35,5 +35,8 @@
     <string name="mandatory_fields">Please fill all mandatory fields</string>
     <string name="order_summary">Order Summary</string>
     <string name="transition_cover">My Transition</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="hello_world">Hello world!</string>
 
 </resources>

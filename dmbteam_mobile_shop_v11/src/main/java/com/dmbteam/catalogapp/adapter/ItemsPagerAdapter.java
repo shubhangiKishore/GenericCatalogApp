@@ -321,7 +321,7 @@ public class ItemsPagerAdapter extends PagerAdapter implements IconPagerAdapter 
 		 * @param selectedProduct
 		 *            the selected product
 		 */
-		public (Product selectedProduct) {
+		public FloatingActionButtonListener (Product selectedProduct) {
 			super();
 			this.selectedProduct = selectedProduct;
 		}

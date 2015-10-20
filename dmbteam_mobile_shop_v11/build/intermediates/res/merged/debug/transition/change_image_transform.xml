@@ -5,4 +5,4 @@
     android:orientation="vertical"
     android:transitionName="@string/transition_cover" >
 
-</LinearLayout><!-- From: file:/C:/Users/sk448/AndroidStudioProjects/dmbteam_mobile_shop_v1.11/dmbteam_mobile_shop_v11/src/main/res/transition/change_image_transform.xml -->
+</LinearLayout><!-- From: file:/C:/Users/Shubhi/AndroidStudioProjects/merabite/dmbteam_mobile_shop_v11/src/main/res/transition/change_image_transform.xml -->
